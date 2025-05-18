@@ -1,0 +1,10 @@
+version: "3.8"
+
+services:
+  spark-app:
+    build: .
+    container_name: spark-app
+    volumes:
+      - ./app:/app
+    working_dir: /app
+    command: ["python3", "main.py"]
