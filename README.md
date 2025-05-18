@@ -10,7 +10,8 @@ Predictive analytics pipeline to forecast air‑quality pollutants (NO₂, CO, O
 3. [Quick Start](#quick-start)  
 4. [Repository Structure](#repository-structure)  
 5. [Usage](#usage)  
-6. [Model Evaluation](#model-evaluation)  
+6. [Model Evaluation](#model-evaluation)
+7. [Model Download](#model-download)
 
 ---
 
