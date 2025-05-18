@@ -88,3 +88,9 @@ The model was trained using:
 - R² ≈ 0.88 (depending on pollutant)
 
 ---
+## 📥 Model Download
+
+The trained model file `random_forest_model.pkl` exceeds GitHub's size limit (100MB) and is not included in this repository.
+
+🔗 **[Download the model file here](https://drive.google.com/file/d/1-S0UTSqR-w-JDVPWVab0KEpP5_apWYuS/view?usp=sharing)**  
+→ Place it inside the `app/` directory before running the project.
